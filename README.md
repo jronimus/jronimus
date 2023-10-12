@@ -1,6 +1,6 @@
 <h1 align="center">Hello there!</h1>
 
-![Welcome GIF]((https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGUwazFiMGp1MXZ1bnYybHE0aDE4djV4czI4bzU1cW10eDlmc25nOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/j4qUNyWuCuaEAr6fse/giphy.gif))
+![Welcome GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGUwazFiMGp1MXZ1bnYybHE0aDE4djV4czI4bzU1cW10eDlmc25nOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/j4qUNyWuCuaEAr6fse/giphy.gif)
 
 
 
