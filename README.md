@@ -26,14 +26,12 @@ Let's make every day an adventure worth remembering, one smile and one step at a
 
  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nasretulla&show_icons=true&locale=en&layout=compact" alt="nasretulla" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jronimus&show_icons=true&locale=en&layout=compact" alt="Joni" /></p>
 
  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nasretulla&show_icons=true&locale=en" alt="nasretulla" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jronimus&show_icons=true&locale=en" alt="Joni" /></p>
 
  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nasretulla&" alt="nasretulla" /></p>
-
-sisältää pikavalikon
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jronimus&" alt="Joni" /></p>
