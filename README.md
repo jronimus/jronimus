@@ -1,8 +1,3 @@
-, a student on a quest to make every day better than the last. While my formal education journey is still in progress, I'm already passionate about pushing the boundaries of what's possible.
-
-
-
-
 <h1 align="center">Hello there! I'm Joni Ronimus</h1>
 <h3 align="center">I'm a student on a quest to make every day better than the last. While my formal education journey is still in progress, I'm already passionate about pushing the boundaries of what's possible.</h3>
 
