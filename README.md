@@ -4,7 +4,7 @@
 
 
 
-<h3 align="center">I'm Joni Ronimus, a student on a quest to make every day better than the last. While my formal education journey is still in progress, I'm already passionate about pushing the boundaries of what's possible.</h3>
+<h3>I'm Joni Ronimus, a student on a quest to make every day better than the last. While my formal education journey is still in progress, I'm already passionate about pushing the boundaries of what's possible.</h3>
 
  
 
