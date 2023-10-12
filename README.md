@@ -17,13 +17,6 @@ Fun Fact: Here's a slice of nostalgia for you – when I was a kid, my dad and I
 Get in Touch: Have a question, an idea, or just want to say hi? Don't be shy! Visit the contact part of my portfolio site, and let's chat. I'm all ears for a good conversation.
 
 Let's make every day an adventure worth remembering, one smile and one step at a time. 🚀
-
- 
-
-<h3 align="left"></h3>
-<p align="left">
-</p>
-
  
 
 <h3 align="left">Languages and Tools:</h3>
