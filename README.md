@@ -1,6 +1,7 @@
 <h1 align="center">Hello there!</h1>
 
-![Welcome GIF](https://media.tenor.com/ReyXNzsf39cAAAAC/stranger-things-season4-eddie-munson.gif)
+![Welcome GIF]([https://media.tenor.com/ReyXNzsf39cAAAAC/stranger-things-season4-eddie-munson.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGUwazFiMGp1MXZ1bnYybHE0aDE4djV4czI4bzU1cW10eDlmc25nOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/j4qUNyWuCuaEAr6fse/giphy.gif))
+
 
 
 <h3 align="center">I'm Joni Ronimus, a student on a quest to make every day better than the last. While my formal education journey is still in progress, I'm already passionate about pushing the boundaries of what's possible.</h3>
