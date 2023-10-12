@@ -1,6 +1,7 @@
 <h1 align="center">Hello there!</h1>
 
-<iframe src="https://giphy.com/embed/j4qUNyWuCuaEAr6fse" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/echilibrultau-reactions-memes-welcome-j4qUNyWuCuaEAr6fse">via GIPHY</a></p>
+https://media.tenor.com/ReyXNzsf39cAAAAC/stranger-things-season4-eddie-munson.gif
+
 
 <h3 align="center">I'm Joni Ronimus, a student on a quest to make every day better than the last. While my formal education journey is still in progress, I'm already passionate about pushing the boundaries of what's possible.</h3>
 
