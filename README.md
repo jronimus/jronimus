@@ -24,8 +24,8 @@ Let's make every day an adventure worth remembering, one smile and one step at a
 
  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jronimus&show_icons=true&locale=en&layout=compact" alt="Joni" /></p>
-![jronimus's Stats](https://github-readme-stats.vercel.app/api?username=jronimus&theme=synthwave&show_icons=true&hide_border=true&count_private=true)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=jronimus&theme=synthwave&show_icons=true&hide_border=true&count_private=true" alt="Joni" /></p>
+
  
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jronimus&show_icons=true&locale=en" alt="Joni" /></p>
