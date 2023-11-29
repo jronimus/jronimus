@@ -1,7 +1,7 @@
 <div maxwidth="1080px">
   <h1 align="center">Hello there!</h1>
   
-  <p align="center"> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGUwazFiMGp1MXZ1bnYybHE0aDE4djV4czI4bzU1cW10eDlmc25nOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/j4qUNyWuCuaEAr6fse/giphy.gif" </p>
+  <p align="center"> <img src=".\images\JR_GitHub_banner.png" </p>
   
   
   
