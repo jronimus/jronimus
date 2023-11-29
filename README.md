@@ -19,15 +19,11 @@ Get in Touch: Have a question, an idea, or just want to say hi? Don't be shy! Vi
 Let's make every day an adventure worth remembering, one smile and one step at a time. 🚀
  
 
-[![jronimus's GitHub stats](https://github-readme-stats.vercel.app/api?username=jronimus)](https://github.com/jronimus/github-readme-stats)
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=jronimus&theme=synthwave&show_icons=true&hide_border=true&count_private=true" alt="Joni" />
 
- 
+![jronimus's Stats](https://github-readme-stats.vercel.app/api?username=jronimus&theme=synthwave&show_icons=true&hide_border=true&count_private=true)
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jronimus&theme=synthwave&hide_border=true" alt="Joni" />
+![jronimus's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jronimus&theme=synthwave&hide_border=true)
 
- 
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jronimus&theme=synthwave&show_icons=true&hide_border=true&layout=compact" alt="Joni" />
+![jronimus's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jronimus&theme=synthwave&show_icons=true&hide_border=true&layout=compact)
 
