@@ -25,5 +25,3 @@ Let's make every day an adventure worth remembering, one smile and one step at a
 
 ![jronimus's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jronimus&theme=synthwave&hide_border=true)
 
-![jronimus's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jronimus&theme=synthwave&show_icons=true&hide_border=true&layout=compact)
-
