@@ -28,8 +28,8 @@ Let's make every day an adventure worth remembering, one smile and one step at a
 
  
 
-<p>&nbsp;<img align="center" src="![jronimus's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jronimus&theme=synthwave&hide_border=true)" alt="Joni" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jronimus&theme=synthwave&hide_border=true" alt="Joni" /></p>
 
  
 
-<p><img align="center" src="![jronimus's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jronimus&theme=synthwave&show_icons=true&hide_border=true&layout=compact)" alt="Joni" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jronimus&theme=synthwave&show_icons=true&hide_border=true&layout=compact" alt="Joni" /></p>
