@@ -28,4 +28,4 @@ Let's make every day an adventure worth remembering, one smile and one step at a
 
  
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jronimus&theme=synthwave&show_icons=true&hide_border=true&layout=compact" alt="Joni" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jronimus&theme=synthwave&show_icons=true&hide_border=true&layout=compact" alt="Joni" /></p>
