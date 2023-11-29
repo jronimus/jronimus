@@ -24,7 +24,7 @@ Let's make every day an adventure worth remembering, one smile and one step at a
 
  
 
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jronimus&theme=synthwave&hide_border=true" alt="Joni" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jronimus&theme=synthwave&hide_border=true" alt="Joni" /></p>
 
  
 
