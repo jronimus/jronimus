@@ -18,7 +18,7 @@ Get in Touch: Have a question, an idea, or just want to say hi? Don't be shy! Vi
 
 Let's make every day an adventure worth remembering, one smile and one step at a time. 🚀
  
-
+</br>
 
 
 <div align=center>
