@@ -20,12 +20,14 @@ Let's make every day an adventure worth remembering, one smile and one step at a
  
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=jronimus&theme=synthwave&show_icons=true&hide_border=true&count_private=true" alt="Joni" />
+<ul>
+<li><img align="center" src="https://github-readme-stats.vercel.app/api?username=jronimus&theme=synthwave&show_icons=true&hide_border=true&count_private=true" alt="Joni" /></li>
 
  
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jronimus&theme=synthwave&hide_border=true" alt="Joni" />
+<li><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jronimus&theme=synthwave&hide_border=true" alt="Joni" /></li>
 
  
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jronimus&theme=synthwave&show_icons=true&hide_border=true&layout=compact" alt="Joni" />
+<li><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jronimus&theme=synthwave&show_icons=true&hide_border=true&layout=compact" alt="Joni" /></li>
+</ul>
