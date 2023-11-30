@@ -1,13 +1,10 @@
 <div maxwidth="1080px">
-
   
 <p align="center"> <img src="https://i.postimg.cc/3wPhC93D/JR-Git-Hub-banner.png" </p>
-  
-<h1 align="center">Hello there!</h1>
 
 <br/>
 
-<h3>I'm Joni Ronimus, a student on a quest to make every day better than the last. While my formal education journey is still in progress, I'm already passionate about pushing the boundaries of what's possible.</h3>
+<h3>Hello there! I'm Joni Ronimus, a student on a quest to make every day better than the last. While my formal education journey is still in progress, I'm already passionate about pushing the boundaries of what's possible.</h3>
   
 Professional Mission: My mantra is simple: "Good is not enough." I strive to raise the bar and improve in everything I do, whether it's in the classroom or in my extracurricular adventures.
   
