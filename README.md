@@ -1,7 +1,7 @@
 <div maxwidth="1080px">
   <h1 align="center">Hello there!</h1>
   
-  <p align="center"> <img src=".\images\JR_GitHub_banner.png" </p>
+  [![JR-Git-Hub-banner.png](https://i.postimg.cc/3wPhC93D/JR-Git-Hub-banner.png)](https://postimg.cc/cKMPdRgs)
   
   
   
