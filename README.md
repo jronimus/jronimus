@@ -1,6 +1,6 @@
 <div maxwidth="1080px">
   
-<p align="center"> <img src="https://i.postimg.cc/3wPhC93D/JR-Git-Hub-banner.png" </p>
+<p align="center"> <img src="https://i.postimg.cc/HW40bpM4/JR-Git-Hub-banner-v2.png" </p>
 
 <br/>
 
