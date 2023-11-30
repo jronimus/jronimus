@@ -22,7 +22,7 @@
   </br>
   
   
-  <div>
+  <div backgroundcolor="red">
     <img maxwidth="40%" minheight="200px" align-content:start src="https://github-readme-stats.vercel.app/api?username=jronimus&theme=synthwave&show_icons=true&hide_border=true&count_private=true" />
     <img maxwidth="40%" minheight="200px" align-content:end src="https://github-readme-streak-stats.herokuapp.com/?user=jronimus&theme=synthwave&hide_border=true" />
   </div>
