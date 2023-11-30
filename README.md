@@ -23,7 +23,7 @@
   
   
   <div width="100%">
-    <img maxwidth="40%" minheight="100%" align-content:start src="https://github-readme-stats.vercel.app/api?username=jronimus&theme=synthwave&show_icons=true&hide_border=true&count_private=true" />
-    <img maxwidth="40%" minheight="100%" align-content:end src="https://github-readme-streak-stats.herokuapp.com/?user=jronimus&theme=synthwave&hide_border=true" />
+    <img width="100%" align-content:start src="https://github-readme-stats.vercel.app/api?username=jronimus&theme=synthwave&show_icons=true&hide_border=true&count_private=true" />
+    <img width="100%" align-content:end src="https://github-readme-streak-stats.herokuapp.com/?user=jronimus&theme=synthwave&hide_border=true" />
   </div>
 </div>
